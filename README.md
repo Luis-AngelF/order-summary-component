@@ -18,7 +18,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ![](files/preview.png)
 
 ### Links
-- Live Site URL: [Netlify](https://scintillating-kleicha-7aa4bd.netlify.app/)
+- Live Site URL: [Netlify](https://peaceful-rabanadas-b10ac8.netlify.app/)
 
 ## My Process
 
